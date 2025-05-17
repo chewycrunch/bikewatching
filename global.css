@@ -49,6 +49,7 @@ header {
   gap: 1em;
   align-items: baseline;
   justify-content: space-between;
+  width: 100%;
 }
 
 #map circle,
