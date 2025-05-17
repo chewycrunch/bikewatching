@@ -96,3 +96,7 @@ header {
     var(--color-arrivals)
   );
 }
+
+circle {
+  pointer-events: auto;
+}
